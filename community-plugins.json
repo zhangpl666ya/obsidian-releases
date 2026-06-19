@@ -34480,5 +34480,12 @@
     "author": "拔插头艺术家",
     "description": "Export notes into clean, offline-readable pages, with optional Read Along — TTS narration plus synchronized sentence highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zebo101/ReadAlong"
+  },
+  {
+    "id": "auto-moc-ai-tagger",
+    "name": "Auto MOC and AI Tagger",
+    "author": "zhangpl666ya",
+    "description": "Automatically maintains folder MOCs (with tag listing) and uses a local or cloud LLM to tag notes and recommend similar notes based on vector embeddings.",
+    "repo": "zhangpl666ya/auto-moc-ai-tagger"
   }
 ]
